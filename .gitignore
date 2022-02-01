@@ -1,0 +1,6 @@
+.vscode
+.idea
+
+CMakeListsPrivate.txt
+cmake-build-*/
+vsc_build/
